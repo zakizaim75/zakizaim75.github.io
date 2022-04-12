@@ -61,6 +61,10 @@
 .harga{
     color: #019267;
 }
+
+.detail-harga{
+    font-weight: 500;
+}
 /* CUSTOM RESETS
 ================================================== */
 a {
